@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../whiskypartners_core/.idea/whiskypartners_core.iml" filepath="$PROJECT_DIR$/../whiskypartners_core/.idea/whiskypartners_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/whiskypartners_landing_file.iml" filepath="$PROJECT_DIR$/.idea/whiskypartners_landing_file.iml" />
+    </modules>
+  </component>
+</project>
